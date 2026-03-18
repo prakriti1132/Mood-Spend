@@ -18,4 +18,6 @@ A C++ console app that tracks expenses by mood. Log your spending, tag it with h
 - Abstraction
 
 ## Sample Output
-(Add screenshot or example here)
+<img width="418" height="265" alt="image" src="https://github.com/user-attachments/assets/85c507a7-f79f-48bd-9df5-37f155e37cd1" />
+
+
